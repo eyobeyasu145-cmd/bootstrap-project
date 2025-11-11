@@ -1,0 +1,24 @@
+{
+  "name": "bootsrap-npm",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/eyobeyasu145-cmd/bootstrap-project#readme",
+  "bugs": {
+    "url": "https://github.com/eyobeyasu145-cmd/bootstrap-project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eyobeyasu145-cmd/bootstrap-project.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.8"
+  }
+}
